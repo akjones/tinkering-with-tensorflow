@@ -10,4 +10,5 @@ After that, run:
 
 Now you're ready to run any of the examples! e.g.
 
-    ./monsters/monster_generator.py
+    cd monsters
+    ./monster_generator.py
